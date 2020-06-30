@@ -9,5 +9,6 @@ Table of Content
   * Pandas methods
     - DataFrame information
     - DataFrame data-types
+    - Copy a DataFrame
   * Multi-indexing a DataFrame
   * Resizing the DataFrame
