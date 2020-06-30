@@ -5,3 +5,9 @@ Table of Content
 
 1. Pandas 101 - pt.i_ Intro. Data Structures.ipynb
    * Pandas Series and DataFrames
+2. Pandas 101 - pt.ii.ipynb
+  * Pandas methods
+    - DataFrame information
+    - DataFrame data-types
+  * Multi-indexing a DataFrame
+  * Resizing the DataFrame
