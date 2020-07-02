@@ -13,3 +13,6 @@ Table of Content
     - Copy a DataFrame.
   * Multi-indexing a DataFrame.
   * Resizing the DataFrame.
+  
+  2. Pandas 101 - pt.iii.ipynb
+    * Data Clensing
