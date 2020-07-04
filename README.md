@@ -7,12 +7,12 @@ Table of Content
    * Pandas Series and DataFrames.
 
 2. Pandas 101 - pt.ii.ipynb
-  * Pandas methods:
-    - DataFrame information.
-    - DataFrame data-types.
-    - Copy a DataFrame.
-  * Multi-indexing a DataFrame.
-  * Resizing the DataFrame.
+   * Pandas methods:
+     - DataFrame information.
+     - DataFrame data-types.
+     - Copy a DataFrame.
+   * Multi-indexing a DataFrame.
+   * Resizing the DataFrame.
   
   3. Pandas 101 - pt.iii.ipynb
-    * Data Clensing
+     * Data Clensing
