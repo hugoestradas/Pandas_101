@@ -14,5 +14,5 @@ Table of Content
   * Multi-indexing a DataFrame.
   * Resizing the DataFrame.
   
-  2. Pandas 101 - pt.iii.ipynb
+  3. Pandas 101 - pt.iii.ipynb
     * Data Clensing
