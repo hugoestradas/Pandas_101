@@ -17,5 +17,6 @@ Table of Contents:
   
   3. Pandas 101 - pt.iii: Data Science Challenges
      * Get familiar with the dataset.
+     * Dealing with Dates and Times.
      * Querying a DataFrame.
      * Handling Missing Values.
