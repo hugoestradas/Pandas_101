@@ -11,12 +11,12 @@ Table of Contents:
    * Pandas methods:
      - DataFrame information.
      - DataFrame data-types.
-     - Copy a DataFrame.
+     - Copying a DataFrame.
    * Multi-indexing a DataFrame.
    * Resizing the DataFrame.
   
   3. Pandas 101 - pt.iii: Data Science Challenges
-     * Get familiar with the dataset.
+     * Get Familiar with the Dataset.
      * Dealing with Dates and Times.
      * Querying a DataFrame.
      * Handling Missing Values.
