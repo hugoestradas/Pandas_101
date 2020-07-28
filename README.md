@@ -4,10 +4,10 @@ Pandas 101 🐼📈🏹📊📐
 
 Table of Contents:
 
-1. Pandas 101 - pt.i_ Intro. Data Structures.ipynb
+1. Pandas 101 - pt.i: Intro. Data Structures:
    * Pandas Series and DataFrames.
 
-2. Pandas 101 - pt.ii.ipynb
+2. Pandas 101 - pt.ii: Practicing with DataFrames:
    * Pandas methods:
      - DataFrame information.
      - DataFrame data-types.
@@ -15,7 +15,7 @@ Table of Contents:
    * Multi-indexing a DataFrame.
    * Resizing the DataFrame.
   
-  3. Pandas 101 - pt.iii.ipynb
+  3. Pandas 101 - pt.iii: Data Science Challenges
      * Get familiar with the dataset.
      * Querying a DataFrame.
      * Handling Missing Values.
