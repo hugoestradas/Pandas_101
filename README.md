@@ -17,5 +17,5 @@ Table of Contents:
   
   3. Pandas 101 - pt.iii.ipynb
      * Get familiar with the dataset.
-     * Dealing with Dates and Times.
-     * Data Clensing.
+     * Querying a DataFrame.
+     * Handling Missing Values.
