@@ -2,8 +2,6 @@
 
 Pandas 101 🐼📈🏹📊📐
 
-Table of Contents:
-
 1. Pandas 101 - pt.i: Intro. Data Structures:
    * Pandas Series and DataFrames.
 
