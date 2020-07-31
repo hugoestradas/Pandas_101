@@ -13,7 +13,7 @@ Pandas 101 🐼📈🏹📊📐
    * Multi-indexing a DataFrame.
    * Resizing the DataFrame.
   
-  3. Pandas 101 - pt.iii: Data Science Challenges
+  3. Pandas 101 - pt.iii: Data Science Challenges:
      * Get Familiar with the Dataset.
      * Dealing with Dates and Times.
      * Querying a DataFrame.
