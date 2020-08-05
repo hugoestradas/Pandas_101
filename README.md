@@ -2,7 +2,7 @@
 
 Pandas 101 🐼📈🏹📊📐
 
-1. Pandas 101 - pt.i: Intro. Data Structures:
+1. Pandas 101 - pt.i: Introduction to Data Structures:
    * Pandas Series and DataFrames.
 
 2. Pandas 101 - pt.ii: Practicing with DataFrames:
